@@ -1,4 +1,4 @@
-/* gcc investment_growth.c -o investment_growth */
+// gcc investment_growth_calc.c -o investment_growth_calc
 
 #include <stdio.h>
 #include <stdlib.h>
